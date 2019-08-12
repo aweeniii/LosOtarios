@@ -3,7 +3,7 @@ Segundo paso: Clonar el repositorio de la pagina desde el terminal.
 con el comando: git clone {y el link}
 Tercer paso: Hacer un archivo .txt
 y para añadirlo usamos el comando: git add {nombre de archivo}
-Cuarto paso: Para comprobar modificacion en algun archivo 
+Cuarto paso: Para comprobar modificación en algun archivo 
 se usa el comando: git diff
 Quinto paso: Si quieren subir el archivo modificado se usa
 git add {nombre del archivo}
